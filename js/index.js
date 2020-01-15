@@ -238,7 +238,7 @@ function onMouseDown(event) {
 
                         info.innerHTML = "I'm Amit <span>Debnath</span>,";
                         subtitle.innerHTML = "a <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
-                        description.innerHTML = "KCC Institute of Technology & Management, Grater Noida Class of <span>2021</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/raw/master/Sumit_DEBNATH_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "KCC Institute of Technology & Management, Grater Noida Class of <span>2021</span><br/><a target='_blank' href='https://github.com/amitd307/amitd307.github.io/raw/master/final-resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
                     }
                     if (planetViewed == 2 || planetViewed==3 || planetViewed==4) {
                         planetViewed = 1;
