@@ -238,7 +238,7 @@ function onMouseDown(event) {
 
                         info.innerHTML = "I'm Amit <span>Debnath</span>,";
                         subtitle.innerHTML = "a <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
-                        description.innerHTML = "KCC Institute of Technology & Management, Grater Noida Class of <span>2021</span><br/><a target='_blank' href='https://github.com/amitd307/amitd307.github.io/raw/master/final-resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "KCC Institute of Technology & Management, Greater Noida Class of <span>2021</span><br/><a target='_blank' href='https://github.com/amitd307/amitd307.github.io/raw/master/final-resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
                     }
                     if (planetViewed == 2 || planetViewed==3 || planetViewed==4) {
                         planetViewed = 1;
@@ -263,9 +263,9 @@ function onMouseDown(event) {
                         });
 
 
-                          info.innerHTML = "I'm Amit <span>Debnath</span>,";
-                        subtitle.innerHTML = "a <span>Developer</span> from <span>Agartala (India)<span>. I love turning exciting ideas into beautiful products.";
-                        description.innerHTML = "KCC Institute of Technology & Management, Grater Noida Class of <span>2021</span><br/><a target='_blank' href='https://github.com/amitd307/amitd307.github.io/raw/master/final-resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        info.innerHTML = "I'm Amit <span>Debnath</span>,";
+                        subtitle.innerHTML = "a <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
+                        description.innerHTML = "KCC Institute of Technology & Management, Greater Noida Class of <span>2021</span><br/><a target='_blank' href='https://github.com/amitd307/amitd307.github.io/raw/master/final-resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
 
                     }
                 }
@@ -274,7 +274,7 @@ function onMouseDown(event) {
                         planetViewed = 2;
                         info.innerHTML = '<span id="couleur">Projects</span>';
                         document.getElementById('couleur').style.color="#26D7E7";
-                        subtitle.innerHTML = "Since <span>January 2020</span>.";
+                        subtitle.innerHTML = "Since <span>March 2015</span>.";
                         description.innerHTML = "You can find all my experiments here :  <br/><a target='_blank' href='https://github.com/amitd307?tab=repositories'>my Repo's</a><br/><br/><div>Click on the other planets to learn more ...<div>";
 
                         TweenMax.from($('#content'), 0.5, {
